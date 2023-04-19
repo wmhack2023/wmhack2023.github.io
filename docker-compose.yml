@@ -1,0 +1,8 @@
+jekyll:
+  image: jekyll/jekyll:3.8
+  container_name: jekyll_wmhack_2023
+  command: sh -c 'gem install jekyll bundler; bundler; bundle exec jekyll serve -b "" --host 0.0.0.0 --livereload --incremental --watch'
+  ports:
+    - 4000:4000
+  volumes:
+    - .:/srv/jekyll
