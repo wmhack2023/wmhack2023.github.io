@@ -18,7 +18,7 @@ timezone: Europe/Athens
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Wikimedia Hackathon 2023 # the main title
+title: Wikimedia Hackathon 2023 Blog # the main title
 
 tagline: 19–21 May 2023 | Athens, Greece # it will display as the sub-title
 
@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
 url: "wmhack2023.github.io"
 
 github:
-  username: riggas-ionio # change to your github username
+  username: wmhack2023 # change to your github username
 
 twitter:
   username: search?q=%23wmhack&src=typed_query&f=live # change to your twitter username
@@ -37,13 +37,13 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Organizers of the Wikimedia Hackathon 2023
-  email: example@domain.com # change to your email address
+  name: Volunteers of the Wikimedia Hackathon 2023
+  email: wmhack2023@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2023/Organization
     - https://twitter.com/search?q=%23wmhack&src=typed_query&f=live # change to your twitter homepage
-    - https://github.com/riggas-ionio # change to your github homepage
+    - https://github.com/wmhack2023 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
