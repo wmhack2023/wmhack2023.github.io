@@ -14,6 +14,7 @@ Contributions from attendants are welcome; see `How to contribute` section on th
 + [Dimitrios Ringas](https://github.com/riggas-ionio/) - Tech lead & Blog content writing
 + [Spyros Kokotos](https://github.com/Greekforce1821) - Tech expert & Blog content writing
 + [Eleni Christopoulou](https://github.com/hristope-ionio/) - Growth hacker & Content strategist
++ [Marios Magioladitis](https://github.com/p20magi)
 + _more contributions welcome_
 
 
