@@ -166,6 +166,11 @@ defaults:
       path: assets/js/dist
     values:
       swcache: true
+  - scope:
+      path: ""
+    values:
+      image: assets/img/favicons/Wikimedia-logo_black-128.png
+
 
 sass:
   style: compressed
