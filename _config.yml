@@ -169,7 +169,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: assets/img/favicons/Wikimedia-logo_black-128.png
+      image: assets/img/favicons/Wikimedia-logo_black-256.png
 
 
 sass:
