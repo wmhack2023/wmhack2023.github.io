@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Blog covering Wikimedia Hackathon 2023 held in Athens, Greece, between 19–21 May 2023
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "wmhack2023.github.io"
+url: "https://riggas-ionio.github.io/wmhack2023.github.io"
 
 github:
   username: wmhack2023 # change to your github username
@@ -81,7 +81,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/favicons/Wikimedia-logo_black.png
+avatar: /assets/img/favicons/Wikimedia-logo_black-128.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
