@@ -28,7 +28,8 @@ tail_includes:
 
   {% if page.image %}
     {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
-    {% capture class %}class="preview-img{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
+    {% capture class %}class="{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
+    {% capture style %}style="{% if page.image.style %}{{ page.image.style }}{% endif %}"{% endcapture %}
     {% capture alt %}alt="{{ page.image.alt | default: "Preview Image" }}"{% endcapture %}
 
     {% capture lqip %}
@@ -38,7 +39,7 @@ tail_includes:
     {% endcapture %}
 
     <div class="mt-3 mb-3">
-      <img {{ src }} {{ class }} {{ alt }} w="1200" h="630" {{ lqip | strip }}>
+      <img {{ src }} {{ class }} {{ style }} {{ alt }} w="1200" h="630" {{ lqip | strip }}>
       {%- if page.image.alt -%}
         <figcaption class="text-center pt-2 pb-2">{{ page.image.alt }}</figcaption>
       {%- endif -%}
