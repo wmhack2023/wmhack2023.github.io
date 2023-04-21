@@ -11,10 +11,10 @@ Contributions from attendants are welcome; see `How to contribute` section on th
 
 **Credits**:
 
-+ [Dimitrios Ringas](https://github.com/riggas-ionio/) - Tech lead & Blog content writing
-+ [Spyros Kokotos](https://github.com/Greekforce1821) - Tech expert & Blog content writing
-+ [Eleni Christopoulou](https://github.com/hristope-ionio/) - Growth hacker & Content strategist
-+ [Marios Magioladitis](https://github.com/p20magi) - Tech expert
++ [Dimitrios Ringas](https://github.com/riggas-ionio/){:target="_blank"} - Tech lead & Blog content writing
++ [Spyros Kokotos](https://github.com/Greekforce1821){:target="_blank"} - Tech expert & Blog content writing
++ [Eleni Christopoulou](https://github.com/hristope-ionio/){:target="_blank"} - Growth hacker & Content strategist
++ [Marios Magioladitis](https://github.com/p20magi){:target="_blank"} - Tech expert
 + _more contributions welcome_
 
 
