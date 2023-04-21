@@ -4,7 +4,7 @@ icon: fas fa-circle
 order: 4
 ---
 
-All participants of the Wikimedia Hackathon 2023 are welcome to contribute to this blog.
+All participants of the [Wikimedia Hackathon 2023](https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2023){:target="_blank"} are welcome to contribute to this blog.
 Being Jekyll + Github Pages based, contributions can be submitted in the form of `Pull requests` to [https://github.com/wmhack2023/wmhack2023.github.io](https://github.com/wmhack2023/wmhack2023.github.io){:target="_blank"}.
 
 Contributions can be posts about sessions one has participated, general experience about participating in the Hackathon, account of achievements during the Hackathon, introduction of collaboration teams, etc.
