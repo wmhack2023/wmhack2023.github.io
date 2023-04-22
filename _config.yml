@@ -33,6 +33,9 @@ github:
 
 twitter:
   username: search?q=%23wmhack&src=typed_query&f=live # change to your twitter username
+  
+facebook:
+  username: Wikimedia Foundation
 
 social:
   # Change to your full name.
@@ -43,6 +46,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2023/Organization
     - https://twitter.com/search?q=%23wmhack&src=typed_query&f=live # change to your twitter homepage
+    - https://facebook.com/wikimediafoundation
     - https://github.com/wmhack2023 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
