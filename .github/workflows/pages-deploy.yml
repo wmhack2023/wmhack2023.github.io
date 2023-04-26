@@ -12,9 +12,6 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-- name: Twitter, together!
-  uses: twitter-together/action@v3.0.0
-  
 permissions:
   contents: read
   pages: write
