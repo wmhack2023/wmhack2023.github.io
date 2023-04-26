@@ -3,6 +3,7 @@ name: Twitter, together!
 jobs:
   preview:
     name: Preview
+    permissions: write-all
     runs-on: ubuntu-latest
     if: github.event_name == 'pull_request'
     steps:
