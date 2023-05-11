@@ -7,11 +7,12 @@
 # -------------------------------------
 
  riggas-ionio:
-    name: Dimitrios Ringas	
+    name: Dimitrios Ringas
+    twitter: riggas
     url: https://github.com/riggas-ionio
 
  greekforce1821:
-    name: Spyros Kokotos	
+    name: Spyros Kokotos
     twitter: SpyridonKokotos
     url: https://github.com/Greekforce1821
     
@@ -23,3 +24,11 @@
     name: Marios Magioladitis
     twitter: magioladitis
     url: https://github.com/p20magi
+    
+ p19papa4:
+    name: Giorgos Papanikolaou
+    url: https://github.com/p19papa4
+    
+ Mnlsvt: 
+    name: Manolis Vettas
+    url: https://github.com/mnlsvt
