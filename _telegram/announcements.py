@@ -40,4 +40,4 @@ for dt, arr in parsed_announcements.items():
         continue
     print('Announce: ', ann_time)
     for txt in arr:
-        bot.send_message(chat_id=CHAT_ID, text=('Coming up at #wmhack #wmhack2023 '+dt+'\n\n'+txt))
+        bot.send_message(chat_id=CHAT_ID, text=('Coming up at #wmhack #wmhack2023 \n🕰️'+dt+' Local (GMT+3)\n\n'+txt))
