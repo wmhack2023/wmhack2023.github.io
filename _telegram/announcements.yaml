@@ -4,105 +4,75 @@ I'm wmhack2023_announcements_bot a bot created by @DimitriosRingas and the WMHac
 I'll be taking care of scheduled announcements, eg session times, lunch/dinner, socials, etc.
 If I seem to mulfunction, pls contact  @DimitriosRingas.
 See you tomorrow morning at 📍 Technopolis, Gkazi, Athens"
-
-19/05/2023 08:30:00:
-    - "Wikimedia Hackathon 2023 Registration at Technopolis, Machineworks building\n
-Check venue here: https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2023/Venue"
 19/05/2023 09:30:00:
-    - "Wikimedia Hackathon 2023 Opening (all participants to attend this session)\n
-📍 Machineworks building"
+    - "Wikimedia Hackathon 2023 Opening  "
 19/05/2023 11:00:00:
-   - "An introduction to the Wikibase REST API\n
-📍 MachineWorks Workshop Room"
+   - "An introduction to the Wikibase REST API "
 19/05/2023 11:30:00:
-   - "Overview of technical areas & projects in Wikimedia's technical ecosystem\n
-📍 Warehouse Workshop Room"
-   - "Get setup with MediaWiki and build a skin\n
-📍 MachineWorks Workshop Room"
+   - "An introduction to the Wikibase REST API "
+19/05/2023 11:30:00:
+   - "Overview of technical areas & projects in Wikimedia's technical ecosystem "
+19/05/2023 11:30:00:
+   - "Get setup with MediaWiki and build a skin "
 19/05/2023 12:30:00:
-   - "Lunch provided at 📍 Technopolis"
+   - "Lunch "
 19/05/2023 14:00:00:
-   - "Cool new things in MediaWiki code\n
-📍 MachineWorks Workshop Room"
+   - "Cool new things in MediaWiki code "
 19/05/2023 14:30:00:
-   - "State of GitLab CI and migration party \n
-📍 Warehouse Workshop Room"
-   - "An introduction to Codex: the design system for Wikimedia \n
-📍 MachineWorks Workshop Room"
+   - "State of GitLab CI and migration party "
+19/05/2023 14:30:00:
+   - "An introduction to Codex: the design system for Wikimedia "
 19/05/2023 15:00:00:
-   - "Using Pixel tool for visual regression \n
-📍 Warehouse Workshop Room"
-   - "WikiGPT - Natural Language search results based on Wikipedia knowledge and ChatGPT \n
-📍 MachineWorks Workshop Room"
-19/05/2023 16:00:00:
-   - "Documentation for Wikibase Cloud \n
-📍 MachineWorks Workshop Room"
-19/05/2023 17:00:00:
-   - "Nap or solo time for some, social time for others \n
-📍 Cozy corner is on MachineWorks building"
-19/05/2023 18:00:00:
-   - "Dinner provided at 📍 Technopolis"
-19/05/2023 19:00:00:
-   - "Social event at 📍 Technopolis \n
-Accessible-to-All Hip Hop Party"
-
+   - "Using Pixel tool for visual regression "
+19/05/2023 15:00:00:
+   - "WikiGPT - Natural Language search results based on Wikipedia knowledge and ChatGPT "
+20/05/2023 09:30:00:
+   - "Announcements on Hackathon-related venues (Telegram, IRC, Matrix, etc.)  "
 20/05/2023 10:00:00:
-   - "Schemas for medical entitites \n
-📍 Warehouse Workshop Room"
-   - "IP Masking \n
-📍 MachineWorks Workshop Room"
+   - "Schemas for medical entitites  "
+20/05/2023 10:00:00:
+   - "IP Masking  "
 20/05/2023 10:30:00:
-   - "LLMs, ChatGPT, machine learning tools, etc 
-📍 MachineWorks Workshop Room"
+   - "LLMs, ChatGPT, machine learning tools, etc  "
 20/05/2023 11:30:00:
-   - "What i've learned from being a Wikimedia tool dev for nine years \n
-📍 MachineWorks Workshop Room"
+   - "What i've learned from being a Wikimedia tool dev for nine years  "
 20/05/2023 12:30:00:
-   - "Lunch provided at 📍 Technopolis"
-20/05/2023 13:45:00:
-   - "Group Photo (📍 Location tbd)"
+   - "Lunch  "
 20/05/2023 14:00:00:
-   - "Community configuration - letting communities take control by JSON configuration \n
-📍 MachineWorks Workshop Room"
+   - "Community configuration - letting communities take control by JSON configuration  "
 20/05/2023 15:00:00:
-   - "How to fix automatic citacions in Wikipedia with Web2Cit \n
-📍 Warehouse Workshop Room"
-   - "What do tool maintainers want from Toolhub? \n
-📍 MachineWorks Workshop Room"
+   - "How to fix automatic citacions in Wikipedia with Web2Cit  "
+20/05/2023 15:00:00:
+   - "What do tool maintainers want from Toolhub?  "
 20/05/2023 16:00:00:
-   - "Using automated systems to recommend reviewers in the MediaWiki project \n 
-📍 Warehouse Workshop Room"
-   - "Past, Present and Future of Wikimedia Cloud Services (Toolforge and friends) \n
-📍 MachineWorks Workshop Room"
+   - "Past, Present and Future of Wikimedia Cloud Services (Toolforge and friends)  "
 20/05/2023 17:00:00:
-   - "Nap or solo time for some, social time for others \n
-📍 Cozy corner is on MachineWorks building"
+   - "Nap or solo time for some, social time for others  "
 20/05/2023 18:00:00:
-   - "Dinner provided at 📍 Technopolis"
+   - "Dinner  "
 20/05/2023 19:30:00:
-   - "Social event at 📍 Technopolis \n
-Vassilikos 'The Grand Duet' with Giorgios Triantafillou"
-
+   - "Hacking Space  "
+21/05/2023 09:00:00:
+   - "Announcements on Hackathon-related venues (Telegram, IRC, Matrix, etc.)  "
 21/05/2023 09:30:00:
-   - "Toolforge Build Service beta preview \n 
-📍 Innovathens Workshop Room"
-   - "Improve your technical writing \n
-📍 MachineWorks Workshop Room"
+   - "Improve your technical writing  "
 21/05/2023 10:30:00:
-   - "Best practises & ideas for implementing them for high-impact tools & their maintainers \n
-📍 MachineWorks Workshop Room"
+   - "Best practises & ideas for implementing them for high-impact tools & their maintainers  "
 21/05/2023 11:30:00:
-   - "Cool new things in PHP 
-📍 Innovathens Workshop Room"
-   - "Self-hosting ML models on Cloud Services \n
-📍 MachineWorks Workshop Room"
-21/05/2023 12:00:00:
-   - "Toolhub, Toolhunt, and the quest to improve tool discoverability \n
-📍 Innovathens Workshop Room"
+   - "Self-hosting ML models on Cloud Services  "
+21/05/2023 11:30:00:
+   - "Self-hosting ML models on Cloud Services  "
 21/05/2023 12:30:00:
-   - "Lunch provided at 📍 Technopolis"
+   - "Lunch  "
+21/05/2023 12:30:00:
+   - "Lunch  "
+21/05/2023 14:00:00:
+   - "Cool new things in PHP  "
+21/05/2023 14:00:00:
+   - "Toolforge Build Services beta preview  "
 21/05/2023 14:30:00:
-   - "Hackathon Project Showcase & Closing (all participants to attend this session) 
-📍 Machineworks building"
-21/05/2023 17:00:00:
-   - "Free dinner for all attendees at 📍 Brown Acropol rooftop  "
+   - "Toolhub, Toolhunt, and the quest to improve tool discoverability  "
+21/05/2023 15:00:00:
+   - "Hackathon Project Showcase & Closing (all participants to attend this session)  "
+21/05/2023 18:00:00:
+   - "Free dinner for all attendees at Brown Acropol rooftop  "
