@@ -1,9 +1,8 @@
-name: "Build and Deploy"
+name: "Build and Deploy branch Development"
 on:
   push:
     branches:
-      - main
-      - master
+      - development
     paths-ignore:
       - .gitignore
       - README.md

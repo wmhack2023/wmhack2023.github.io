@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: # "wmhack2023"
+baseurl: "wmhack2023.github.io"
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -26,15 +26,15 @@ description: >- # used by seo meta and the atom feed
   Blog covering Wikimedia Hackathon 2023 held in Athens, Greece, between 19–21 May 2023
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://wmhack2023.github.io"
+url: "https://riggas-ionio.github.io"
 
 github:
   username: wmhack2023 # change to your github username
 
 twitter:
   username: search?q=%23wmhack&src=typed_query&f=live # change to your twitter username
-  
-  
+
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -82,7 +82,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/favicons/Wikimedia-logo_black.png
+avatar: /assets/img/favicons/Wikimedia-logo_black-128.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -171,6 +171,10 @@ defaults:
       path: ""
     values:
       image: assets/img/favicons/Wikimedia-logo_black-256.png
+<<<<<<< HEAD
+
+=======
+>>>>>>> 7643bca30a03f2afac29c67c4a5d4ace7c5a7e63
 
 sass:
   style: compressed
