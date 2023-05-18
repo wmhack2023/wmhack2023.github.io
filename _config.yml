@@ -171,11 +171,6 @@ defaults:
       path: ""
     values:
       image: assets/img/favicons/Wikimedia-logo_black-256.png
-<<<<<<< HEAD
-
-=======
->>>>>>> 7643bca30a03f2afac29c67c4a5d4ace7c5a7e63
-
 sass:
   style: compressed
 
