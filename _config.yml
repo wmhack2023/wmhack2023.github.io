@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Blog covering Wikimedia Hackathon 2023 held in Athens, Greece, between 19–21 May 2023
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://riggas-ionio.github.io"
+url: "https://wmhack2023.github.io"
 
 github:
   username: wmhack2023 # change to your github username
