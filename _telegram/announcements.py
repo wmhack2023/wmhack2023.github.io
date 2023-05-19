@@ -12,7 +12,7 @@ global TOKEN
 TOKEN = config('BOT_TOKEN')
 CHAT_ID = config('CHAT_ID')
 # ANNOUNCEMENTS = config('ANNOUNCEMENTS')
-ANNOUNCEMENTS = 'announcements.yaml'
+ANNOUNCEMENTS = '_telegram/announcements.yaml'
 ANNOUNCE_EVERY = 15 #minutes
 
 with open(ANNOUNCEMENTS, 'r') as stream:
