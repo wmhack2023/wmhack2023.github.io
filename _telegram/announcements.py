@@ -4,6 +4,7 @@ import telebot
 from decouple import config
 from datetime import datetime as DT
 import pytz
+import time
 
 global bot
 global TOKEN
@@ -40,4 +41,5 @@ for dt, arr in parsed_announcements.items():
         continue
     print('Announce: ', ann_time)
     for txt in arr:
-        bot.send_message(chat_id=CHAT_ID, text=('Coming up at #wmhack #wmhack2023 \n🕰️'+dt+' Local (GMT+3)\n\n'+txt))
+        bot.send_message(chat_id=CHAT_ID, text=('Coming up at #wmhack #wmhack2023 \n🕰️'+(ann_time.strftime('%H:%M%p'))+' \n\n'+txt))
+        time.sleep(1)
