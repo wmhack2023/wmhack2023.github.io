@@ -14,7 +14,7 @@ Hi community!!
 
 Excited to participate for the first time in a Wikimedia Hackathon and host the event in Athens, Greece. 
 
-| ![Welcome slide](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Opening_slides_-_Wikimedia_Hackathon_2023.pdf/page1-640px-Opening_slides_-_Wikimedia_Hackathon_2023.pdf.jpg) |
+| ![Welcome slide](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Opening_slides_-_Wikimedia_Hackathon_2023.pdf/page1-640px-Opening_slides_-_Wikimedia_Hackathon_2023.pdf.jpg){:target="_blank"} |
 |:--:|
 | <b>Opening slides - Wikimedia Hackathon 2023 -- Source: [LLacroix-WMF](https://w.wiki/6jHh)</b>|
 
