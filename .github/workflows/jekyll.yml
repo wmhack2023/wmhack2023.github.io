@@ -2,7 +2,7 @@ name: "Build and Deploy branch Development"
 on:
   push:
     branches:
-      - development
+      - main
     paths-ignore:
       - .gitignore
       - README.md
