@@ -6,7 +6,7 @@ categories: [Blogging, Sessions]
 tags: [wmhack2023volunteers, opening, day1]
 image:
   path: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wikimedia_hackathon_mark_horizontal.svg/1200px-Wikimedia_hackathon_mark_horizontal.svg.png
-  alt: Welcome to Wikimedia Hackathon 2023 Blog
+  alt: Wikimedia Hackathon 2023
   style: background-color:white;
 ---
 
