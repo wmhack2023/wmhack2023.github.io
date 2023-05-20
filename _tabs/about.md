@@ -17,6 +17,7 @@ Contributions from attendants are welcome; see `How to contribute` section on th
 + [Marios Magioladitis](https://github.com/p20magi){:target="_blank"} - Tech expert
 + [Emmanouil Vettas](https://github.com/Mnlsvt){:target="_blank"} - Blog content writing
 + [Giorgos Papanikolaou](https://github.com/p19papa4){:target="_blank"} - Blog content writing
++ [Siebrand Mazeland](https://github.com/siebrand){:target="_blank"} - Tech Guru & Critical Debugging
 + _more contributions welcome_
 
 
