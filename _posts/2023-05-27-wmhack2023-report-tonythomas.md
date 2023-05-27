@@ -5,9 +5,9 @@ date: 2023-05-27 17:30:00 +0200
 categories: [Blogging, Sessions]
 tags: [wmhack2023volunteers, reprot, day1, day2, day3]
 image:
-path: https://upload.wikimedia.org/wikipedia/commons/e/ed/At_Wikimedia_Hackathon_Athens_%28MP%29_2023_001_%28cropped%29.jpg
-alt: Wikimedia Hackathon 2023
-style: background-color:white;
+  path: https://upload.wikimedia.org/wikipedia/commons/e/ed/At_Wikimedia_Hackathon_Athens_%28MP%29_2023_001_%28cropped%29.jpg
+  alt: Wikimedia Hackathon 2023
+  style: background-color:white;
 ---
 
 The 2023 edition of Wikimedia Hackathon has just concluded, and I was one among the lucky participants to join on-site.
