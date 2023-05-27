@@ -1,6 +1,6 @@
 ---
 title: Report Wikimedia Hackathon 2023, Athens
-author: 01tonythomas
+author: tonythomas01
 date: 2023-05-27 17:30:00 +0200
 categories: [Blogging, Sessions]
 tags: [wmhack2023volunteers, reprot, day1, day2, day3]
