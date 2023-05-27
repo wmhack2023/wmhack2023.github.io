@@ -23,6 +23,7 @@ Contributions from attendants are welcome; see `How to contribute` section on th
 **Wikimedia Hackathon**
 
 + [Siebrand Mazeland](https://github.com/siebrand){:target="_blank"} - Tech Guru & Critical Debugging
++ [Tony Thomas](https://github.com/tonythomas01){:target="_blank"} - Blog content writing
 
 
 **Credits to content contributors**:
