@@ -1,5 +1,5 @@
 ---
-title: Report: Wikimedia Hackathon 2023, Athens
+title: Report Wikimedia Hackathon 2023, Athens
 author: 01tonythomas
 date: 2023-05-27 17:30:00 +0200
 categories: [Blogging, Sessions]
