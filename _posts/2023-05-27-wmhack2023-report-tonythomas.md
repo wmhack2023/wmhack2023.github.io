@@ -9,6 +9,7 @@ path: https://upload.wikimedia.org/wikipedia/commons/e/ed/At_Wikimedia_Hackathon
 alt: Wikimedia Hackathon 2023
 style: background-color:white;
 ---
+
 The 2023 edition of Wikimedia Hackathon has just concluded, and I was one among the lucky participants to join on-site.
 It was a great feeling to re-connect with fellow Wikimedians after 4 long years of no-onsite events, and to be part of a
 community that thrives for free knowledge and code.
