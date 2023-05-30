@@ -1,5 +1,5 @@
 ---
-title: Report Wikimedia Hackathon 2023, Athens
+title: Report on Wikimedia Hackathon 2023, Athens
 author: tonythomas01
 date: 2023-05-27 17:30:00 +0200
 categories: [Blogging, Sessions]
@@ -120,7 +120,7 @@ We gathered a lot of feedback during the hackathon, and I can think about the fo
    section explained in a different way.
 2. Send the script for evaluation, and maybe make it into a gadget.
 3. Explore if we can use any other free LLM models instead. There were a couple of talks about it during the hackathon.
-4. Refactoring of the script (in general), and rely on APIs for data, and not text scrapping.
+4. Refactoring of the script (in general), and rely on APIs for data, and not text scraping.
 5. Open up the script, so that it can be used for
    the [Village Pump](https://en.wikipedia.org/wiki/Wikipedia:Village_pump).
 6. Explore how to deliver the script in a better way, and not rely on Github pages.
