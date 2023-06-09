@@ -1,6 +1,6 @@
 ---
 title: Impressions from the Wikimedia Hackathon 2023 - Spyros Kokotos
-author: Greekforce1821
+author: greekforce1821
 date: 2023-06-09 21:30:00 +0200
 categories: [Blogging, Sessions]
 tags: [wmhack2023volunteers, whhack2023, wikimedia, hackathon]
@@ -16,11 +16,11 @@ The Wikimedia Hackathon, which takes place on an annual basis, is an exceptional
 
 First participation in the conference with limited knowledge, only knowing what Wikipedia is, what Wikidata is, and how they can be utilized, as well as a few things about the volunteer organization of such a satellite event. I'm referring to the Ionian Wikithon 2022, in which I participated both as a volunteer organizer through the IEEE Student Branch of Ionian University and as a regular participant. Last year, I met people for the first time who are involved with Wikipedia, contributing daily to article editing, translations, and the enrichment of free and authentic content that fuels Wikimedia. Those individuals "pushed" me to apply for a scholarship to participate in the Wikimedia Hackathon 2023, which was organized in Greece, as the previous activities were highly appreciated by the people working for Wikimedia.
 
-| ![Image 1](https://upload.wikimedia.org/wikipedia/commons/d/de/Wmhack-2023-orgteam-flat-vertical-01.jpg)   | ![Image 2](https://upload.wikimedia.org/wikipedia/commons/c/c3/Wikimedia_Hackathon_2023_-_Closing_Ceremony_-_3.jpg        |
-|:----------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
-|                           Group Photo From Wikimedia Hackathon 2023, Athens, Greece                        | This is me speaking by the way about our bot and website! From Wikimedia Hackathon 2023, Athens, Closing Ceremony|                     
-
+![Image 1](https://upload.wikimedia.org/wikipedia/commons/d/de/Wmhack-2023-orgteam-flat-vertical-01.jpg)   
+          
 Thanks to these individuals, I secured a scholarship to participate and embarked on the journey of being a volunteer organizer while attending various activities at such a major conference. Through the conference, I was able to enrich my knowledge, interact with a "foreign" community, make connections, and "open doors," expanding my horizons. I attended workshops that were relevant to my field of study, as everyone involved in the continuous improvement of Wikimedia infrastructure, like me, are developers. However, beyond attending sessions, I also "got into the action" with my colleagues and the educational staff who participated alongside me, and we created a simple yet useful tool. I'm referring to the [bot that sent the entire daily schedule](https://github.com/wmhack2023/wmhack2023.github.io/tree/main/_telegram) 15 minutes before the start of each workshop, to the main group of the Hackathon on Telegram... and it became a huge success!
+
+![Image 2](https://upload.wikimedia.org/wikipedia/commons/c/c3/Wikimedia_Hackathon_2023_-_Closing_Ceremony_-_3.jpg)   
 
 Moreover, through this group, we were informed that the bot would be utilized in upcoming events because it facilitated the announcement process and provided guidance to anyone who didn't want to miss the workshop they wished to attend. Additionally, apart from developing the bot, we, the student volunteers also created this [website](https://github.com/wmhack2023/wmhack2023.github.io), which serves as a platform for everyone to upload their feedback regarding their experience at this year's event.
 
