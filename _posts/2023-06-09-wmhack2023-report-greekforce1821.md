@@ -1,7 +1,7 @@
 ---
 title: Impressions from the Wikimedia Hackathon 2023 - Spyros Kokotos
 author: Greekforce1821
-date: 2023-06-09 22:54:00 +0200
+date: 2023-06-09 22:20:00 +0200
 categories: [Blogging, Sessions]
 tags: [wmhack2023volunteers, whhack2023, wikimedia, hackathon]
 image:
