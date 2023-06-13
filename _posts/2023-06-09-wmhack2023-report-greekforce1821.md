@@ -28,7 +28,7 @@ Moreover, through this group, we were informed that the bot would be utilized in
 
 I must not forget to mention that besides the friendships, unique experiences, and knowledge I gained, I thoroughly enjoyed the food! Kudos to the organizers, they made an excellent choice when it comes to the food!
 
-![Image 4](https://upload.wikimedia.org/wikipedia/commons/0/03/Snacks_offered_during_Wikimedia_Hackathon_2023.jpg)
+![Image 4](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Snacks_offered_during_Wikimedia_Hackathon_2023.jpg/576px-Snacks_offered_during_Wikimedia_Hackathon_2023.jpg)
 
 I hope to be given the opportunity again next year to participate in such an event, and I encourage people like me, younger or older, to take part in such activities. The benefits are immense, and I am particularly delighted to have become a member of this vast family created by the Wikimedia Foundation, whose ultimate goal is to ensure free and authentic knowledge through open-source software infrastructure maintained by thousands of people out there. I cannot fully describe this feeling; you must experience it as I did!
 
